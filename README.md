@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D0phinder.
-- 👀 I’m aiming to be a front-end developer.
+- 👀 I am an aspiring front-end developer.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking to collaborate on anyone that can help me on my journey to becoming a front-end developer.
 - 📫 How to reach me robienjamesp@gmail.com.
